@@ -5,16 +5,16 @@ return `┏━━━━━━━━━━━━━━━━━━━━
 ┣━━⊱❉ *💰 E-WALLET* ❉⊰━━━✿
 ┃   
 ┣━⊱ *GOPAY*
-┣⊱ 0899 0000 0000
-┣━━✿ NAMA GOPAY ${ownername}
+┣⊱  089668753326
+┣━━✿ NAMA GOPAY ${yu**yuu**}
 ┃
 ┣━⊱ *DANA*
-┣⊱ 0899 0000 0000
-┣━━✿ NAMA DANA ${ownername}
+┣⊱ 089668753326
+┣━━✿ NAMA DANA ${yu**yu**}
 ┃
 ┣━⊱ *PULSA*
-┣⊱ 0899 0000 0000
-┣━━✿ NAMA PULSA ${ownername}
+┣⊱ 089668753326
+┣━━✿ NAMA PULSA ${yu***yu**}
 ┃
 ┗━━━━━━━━━━━━━━━━━━━━
 
